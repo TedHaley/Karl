@@ -22,4 +22,4 @@ print(lm)
 # Plot Linear Model Function: plot_karl() is dependent on the output from LinearRegression()
 plot_karl(lm)
 
-
+devtools::test()
